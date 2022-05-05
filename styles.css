@@ -113,3 +113,7 @@ span{
 .social a:hover{
     color: orange;
 }
+.image{
+    width:12%;
+    height:10px;
+}
